@@ -9,6 +9,3 @@
 
 ![Image of index](images/4.gif)
 
-![Image of index](images/5.gif)
-
-![Image of index](images/6.gif)
