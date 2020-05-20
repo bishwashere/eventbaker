@@ -1,0 +1,84 @@
+<div class="footer">
+       	   
+       	    
+
+
+
+
+
+<!--links goes below-->
+       	 <div class="footer-bottom">
+       	 	<div class="wrap">
+       	 		<div class="section group">
+				<div class="col_1_of_5 span_1_of_5">
+					<h3 class="m_9">Popular cities</h3>
+					<ul class="sub_list">
+						<h4 class="m_10">Party makers</h4>
+					    <li><a href="party_makers.php?search_key=cochin">Cochin</a></li>
+			            <li><a href="party_makers.php?search_key=mangalore">Mangalore</a></li>
+			            <li><a href="party_makers.php?search_key=thrissur">Thrissur</a></li>
+			            <li><a href="party_makers.php?search_key=calicut">Calicut</a></li>
+			        </ul>
+				
+
+			            
+				</div>
+				<div class="col_1_of_5 span_1_of_5">
+					<h3 class="m_9">    </h3><br>
+				<ul class="sub_list">
+						<h4 class="m_10">Beauty spa</h4>
+					    <li><a href="beautyspa.php?search_key=cochin">Cochin</a></li>
+			            <li><a href="beautyspa.php?search_key=mangalore">Mangalore</a></li>
+			            <li><a href="beautyspa.php?search_key=thrissur">Thrissur</a></li>
+			        </ul>
+				</div>
+		<div class="col_1_of_5 span_1_of_5">
+					<h3 class="m_9">Categories</h3>
+				<ul class="list1">
+					<h4 class="m_10">Auditoriums</h4>
+					  <li><a href="auditorium.php?search_key=cochin">Three star</a></li>
+					  <li><a href="auditorium.php?search_key=thrissur">Five star</a></li>
+					  <li><a href="auditorium.php?search_key=kottayam">Budget Halls</a><li>			           
+			                  <li><a href="auditorium.php?search_key=mangalore">Luxury auditoriums</a></li>			
+         		</ul><br>
+			<ul class="list1">
+					<h4 class="m_10">Caterers</h4>
+					  <li><a href="caterers.php?search_key=cochin">Veg N non-veg</a></li>
+					  <li><a href="caterers.php?search_key=thrissur">Five star</a></li>
+					  <li><a href="caterers.php?search_key=kottayam">Budget</a><li>			           
+			                  <li><a href="caterers.php?search_key=mangalore">Luxury</a></li>	
+         </ul><br>
+				</div>
+				<div class="col_1_of_5 span_1_of_5">
+					<h3 class="m_9">    </h3><br>
+					<ul class="sub_list">
+						<h4 class="m_10">packages</h4>
+					    <li><a href="packages.php?search_key=cochin">Near temples</a></li>
+			            <li><a href="packages.php?search_key=mangalore">Great Cities</a></li>
+			            <li><a href="packages.php?search_key=thrissur">Adventurous places</a></li>
+			            <li><a href="packages.php?search_key=tirur">Luxury packages</a></li>
+			        </ul><br>
+			<ul class="sub_list">
+						<h4 class="m_10">Travels</h4>
+					    <li><a href="ftravels.php?search_key=cochin">A/C coaches</a></li>
+			            <li><a href="travels.php?search_key=mangalore">Air bus</a></li>
+			            <li><a href="travels.php?search_key=thrissur">Mini buses</a></li>
+			            <li><a href="travels.php?search_key=tirur">Vans & Cars</a></li>
+			        </ul>
+				</div>
+				
+				<div class="col_1_of_5 span_1_of_5">
+					<h3 class="m_9">Trending</h3><br>
+					<ul class="sub_list">
+						<h4 class="m_10"> </h4>
+					    <li><a href="packages.php?search_key=cochin">Mangalyam & Guruvayur</a></li>
+			            <li><a href="auditoriums.php?search_key=mangalore">Business class halls</a></li>
+			            <li><a href="packages.php?search_key=thrissur">House boat party</a></li>
+			            <li><a href="auditoriums.php?search_key=tirur">Thrissur Town centre</a></li>
+			        </ul>
+		            
+				</div>
+				<div class="clear"></div>
+			</div>
+       	  </div>
+       	 </div>

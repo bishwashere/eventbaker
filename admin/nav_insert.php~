@@ -1,0 +1,12 @@
+<?php
+require('connect.php');
+$query="insert into navigation(category,parent,color) values('$_POST[category]','$_POST[parent]','$_POST[color]')";
+if (!mysqli_query($con,$query))
+  {
+  die('Error: ' . mysqli_error($con));
+  }
+echo "1 record added";
+
+mysqli_close($con);
+header('location:index.html');
+?>
